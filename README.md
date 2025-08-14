@@ -10,15 +10,21 @@ Each project is well-documented, includes example input/output, and is ideal for
 
 🔹 15 C++ Coding Questions: From easy to medium difficulty
 
+
 🔹 Hands-On Practice: Strengthen logic, arrays, loops, and algorithm skills
+
 
 🔹 Job/Interview Ready: Demonstrates problem-solving and coding proficiency
 
+
 🔹 Clear Examples: Sample input, output, and explanation for each project
+
 
 🔹 No Advanced Libraries: Focused on basic C++ concepts
 
+
 🔹 EOJIEE Style: Humanized, clean, and readable code
+
 
 🛠️ Tech Stack 🧰
 
