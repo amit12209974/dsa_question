@@ -38,19 +38,33 @@ Tools: VS Code, Code::Blocks, Git
 #️⃣	Project Name	Topics	Difficulty	Emoji
 
 1	Sales Report Analysis	Arrays, Loops	Easy	💰
+
 2	Student Marks Analysis	Arrays, Loops	Easy	🎓
+
 3	Reverse Array	Arrays, Loops	Easy	🔄
+
 4	Prime Number Checker	Loops, Math	Easy	🔢
+
 5	Factorial Calculation	Loops, Math	Easy	❗
+
 6	Fibonacci Series	Loops, Recursion	Easy	🔁
+
 7	Matrix Addition	Arrays, Loops	Medium	➕
+
 8	Matrix Multiplication	Arrays, Loops	Medium	✖️
+
 9	Linear Search	Arrays, Loops	Easy	🔍
+
 10	Binary Search	Arrays, Loops	Medium	🧩
+
 11	Bubble Sort	Arrays, Sorting	Medium	🫧
+
 12	Insertion Sort	Arrays, Sorting	Medium	🧱
+
 13	String Palindrome Check	Strings, Loops	Easy	🔤
+
 14	Count Vowels in String	Strings, Loops	Easy	🎵
+
 15	Character Frequency in String	Strings, Loops	Medium	📊
 
 💡 Installation & Running ⚙️
